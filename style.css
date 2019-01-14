@@ -1,0 +1,132 @@
+* {
+  border: 1px solid red;
+}
+section {
+
+}
+.container {
+  position: relative;
+}
+.disclaimer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  margin: auto;
+}
+/* .vert-align-content {
+  padding: 100px;
+} */
+
+.vert-align-msg {
+  padding: 340px;
+}
+
+.logo-container {
+  top: 10px;
+  left: 10px;
+  position: absolute;
+  z-index: 99;
+}
+.flag {
+  position: relative;
+  width: 1em;
+}
+
+.footer {
+
+}
+
+.badge-pill {
+  align-items: center;
+  padding: 1.25em 5.5em;
+
+}
+
+.badge-group {
+  display: inline;
+}
+
+.rounded-black {
+  border-radius: 25px;
+}
+
+button {
+  align-items: center;
+}
+
+#page1 {
+  background-image: url("images/model3.jpg");
+  position: relative;
+  }
+
+#page2 {
+  background-image: url("images/models.jpg");
+}
+#page3 {
+  background-image: url("images/model-x.jpg");
+}
+#page4{
+  background-image: url("images/house.jpg");
+}
+
+.slide {
+  width: 100vw;
+  height: 100vh;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: 0;
+}
+
+.nav-link {
+  color: white;
+}
+
+.navbar-container {
+  top: -5px;
+  left: 0;
+  width: 100%;
+  position: absolute;
+  color: white;
+}
+
+.logo {
+  width: 100px;
+  height: auto;
+}
+
+.bg-image {
+  position: relative;
+}
+
+.content {
+  top:10%;
+  left:0;
+  position: absolute;
+}
+
+h1 {
+  font-family: Montserrat;
+  font-weight: bold;
+  /* text-align: center; */
+  /* margin-left: .8em; */
+  font-size: 2em;
+}
+/* .link-center {
+  text-align: center;
+} */
+.footer {
+  position: relative;
+  /* margin-left: 20rem; */
+  /* margin-bottom: 20rem; */
+}
+a {
+  color: white;
+  align-items: center;
+}
+
+.store-link {
+  color: grey;
+  align-items: center;
+  /* margin-left: 2.2em; */
+}
